@@ -1,0 +1,10 @@
+Server: hii
+Server: hihi
+Server: helo
+Server: 
+Server: tui là thuận
+Server: 
+Server: fff
+Server: hello
+Client: nem xinh gái
+Server: nem k xinh cho lắm
